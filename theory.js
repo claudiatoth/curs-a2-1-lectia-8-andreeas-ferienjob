@@ -65,7 +65,7 @@ const theoryHTML = `
                 <a href="https://forms.gle/7xVfxQrncHuMd3Y46" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #10B981; color: white; padding: 13px 30px; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 1rem; box-shadow: 0 2px 6px rgba(16, 185, 129, 0.3);">
                     Trimite textul Claudiei →
                 </a>
-                <p style="color: #6b7280; font-size: 0.78rem; margin-top: 12px; font-style: italic;">
+                <p style="color: #5A5147; font-size: 0.78rem; margin-top: 12px; font-style: italic;">
                     ʚଓ Răspuns personal pe email · Nu uita să-ți treci adresa de email în formular
                 </p>
             </div>
@@ -186,7 +186,7 @@ const theoryHTML = `
                 <h4>🔑 Multe verbe au DOUĂ obiecte: CUI (Dativ) + CE (Akkusativ)</h4>
                 <p>Verbe ca <strong>geben, bringen, zeigen, schenken</strong> au și o persoană (CUI — Dativ), și un lucru (CE — Akkusativ). Regula de ordine când AMBELE sunt substantive:</p>
                 <p style="text-align:center; font-size:1.1rem; color:#065f46;"><strong>Dativ (persoana) ÎNAINTEA Akkusativ (lucrul)</strong></p>
-                <p style="text-align:center;">Der Kellner bringt <strong style="color:#dc2626;">dem Gast</strong> (CUI) <strong style="color:#047857;">die Suppe</strong> (CE).<br><span style="color:#6b7280; font-style:italic;">Chelnerul îi aduce clientului supa.</span></p>
+                <p style="text-align:center;">Der Kellner bringt <strong style="color:#dc2626;">dem Gast</strong> (CUI) <strong style="color:#047857;">die Suppe</strong> (CE).<br><span style="color:#5A5147; font-style:italic;">Chelnerul îi aduce clientului supa.</span></p>
             </div>
 
             <table class="grammar-table">
